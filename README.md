@@ -22,6 +22,6 @@
 - Networking, monitoring, troubleshooting  
 
 ## 📁 Digital Copies
-- [Senior System Administrator Certificate](Education-Certifications/Senior_System_Administrator_2026.pdf)  
+- [Senior System Administrator Certificate]([Education-Certifications/Senior_System_Administrator_2026.pdf](https://github.com/nzuevwork/Education-Certifications/blob/main/Senior_System_Administrator_2026.pdf))  
 - [Diploma (KEUK 2014)](Education-Certifications/Diploma_KEUK_2014.pdf) *(to be added)*  
 - [Qualification Exam Certificate (2014)](Education-Certifications/Qualification_Exam_2014.pdf) *(to be added)*
